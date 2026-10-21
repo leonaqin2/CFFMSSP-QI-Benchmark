@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this benchmark dataset in your research, please cite it using the metadata in this file."
+type: dataset
+title: "CFFMSSP-QI-Benchmark: Benchmark Instances for Complex Fuzzy Scheduling with Quality Inspection"
+authors:
+  - family-names: "Qin"
+    given-names: "Qi"
+repository-code: "https://github.com/leonaqin2/CFFMSSP-QI-Benchmark"
+url: "https://github.com/leonaqin2/CFFMSSP-QI-Benchmark"
+abstract: >-
+  A collection of 30 benchmark instances for complex fuzzy scheduling with
+  quality inspection, including small-, medium-, and large-scale instances.
+  Processing and assembly times are represented by triangular fuzzy numbers,
+  and manual inspection times by generalized trapezoidal fuzzy numbers.
+keywords:
+  - scheduling
+  - fuzzy scheduling
+  - quality inspection
+  - benchmark dataset
+  - flexible manufacturing systems
